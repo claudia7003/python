@@ -144,8 +144,6 @@ while True:
     opcion = input("Introduce el numero del ejercicio")
     print()
 
-    
-
     match opcion:
         case "9":
             print("El ejercicio 9 es:")
@@ -179,7 +177,5 @@ while True:
         case _:
             print("Opcion no valida")
 
-#Añade al ejercicio anterior un control de errores o control de excepciones con
-#try/except, incluye reglas de negocio con raise, por ejemplo una distancia en metros no
-#puede ser negativa y las excepciones de ValueError y ZeroDivisionError.
+
 
