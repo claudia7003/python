@@ -142,7 +142,13 @@ while True:
     print("0. Salir")
 
     opcion = input("Introduce el numero del ejercicio")
+<<<<<<< HEAD
     print()
+=======
+    
+
+    
+>>>>>>> 6e4f9ad22b3b728ffce185bde9175fb0ce8aea6d
 
     match opcion:
         case "9":
@@ -175,7 +181,11 @@ while True:
         case "0":
             print("Saliendo del programa....")
         case _:
+<<<<<<< HEAD
             print("Opcion no valida")
 
 
 
+=======
+            print("Opcion no valida")
+>>>>>>> 6e4f9ad22b3b728ffce185bde9175fb0ce8aea6d
