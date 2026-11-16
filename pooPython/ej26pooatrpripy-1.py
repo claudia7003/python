@@ -1,4 +1,4 @@
-#Ejercicio 2
+#Ejercicio 3
 
 class Empleado:
     def __init__(self, nombre, sueldo_base):
